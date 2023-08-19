@@ -18,7 +18,7 @@ I am open to collaborating on practical projects that align with my interests. I
 ## 🌐 LinkedIn
 Let's connect on LinkedIn! You can find my profile here: [Seemant Kaushal](https://www.linkedin.com/in/sk200/). Feel free to explore my professional journey and experiences.
 
-![Profile Views](https://komarev.com/ghpvc/?username=seemantkaushal&color=black)
+![Profile Views](https://komarev.com/ghpvc/?username=seemantkaushal&color=brightgreen)
 
 ## 🔧 Tech Stack
 Here are some of the technologies and programming languages I work with:
