@@ -29,3 +29,4 @@ Here are some of the technologies and programming languages I work with:
 <!-- add your own -->
 Feel free to ask if you have any questions about my tech stack or if you want to discuss any tech-related topics!
 
+[![An image of @seemantkaushal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/seemantkaushal)](https://holopin.io/@seemantkaushal)
