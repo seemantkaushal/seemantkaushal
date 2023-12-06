@@ -18,7 +18,7 @@ I am open to collaborating on practical projects that align with my interests. I
 ## 🌐 LinkedIn
 Let's connect on LinkedIn! You can find my profile here: [Seemant Kaushal](https://www.linkedin.com/in/sk200/). Feel free to explore my professional journey and experiences.
 
-![Profile Views](https://komarev.com/ghpvc/?username=seemantkaushal&color=brightgreen)
+
 
 ## 🔧 Tech Stack
 Here are some of the technologies and programming languages I work with:
@@ -28,5 +28,7 @@ Here are some of the technologies and programming languages I work with:
 -   SQL 
 <!-- add your own -->
 Feel free to ask if you have any questions about my tech stack or if you want to discuss any tech-related topics!
+
+![Leetcode Stats](h[ttps://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/_seemantkaushal?theme=dark&font=Noto%20Sans%20Bamum&ext=heatmap))
 
 [![An image of @seemantkaushal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/seemantkaushal)](https://holopin.io/@seemantkaushal)
