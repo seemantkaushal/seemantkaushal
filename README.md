@@ -29,6 +29,9 @@ Here are some of the technologies and programming languages I work with:
 <!-- add your own -->
 Feel free to ask if you have any questions about my tech stack or if you want to discuss any tech-related topics!
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=seemantkaushal&color=brightgreen)
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/_seemantkaushal?theme=dark&font=Noto%20Sans%20Bamum&ext=heatmap)
 
 [![An image of @seemantkaushal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/seemantkaushal)](https://holopin.io/@seemantkaushal)
