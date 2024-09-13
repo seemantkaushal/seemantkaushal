@@ -2,12 +2,16 @@
 
 Welcome to my profile! I'm a tech enthusiast eager to explore new and innovative technologies. I believe in continuous learning and strive to extract valuable lessons from every experience life offers. Currently, I'm honing my skills to keep up with the dynamic world of technology.
 
+## Experience 
+Ex-Intern @ Protean eGov Technology (formerly Known as NSDL) 
+worked on CXO NPS Dashboard .
+
 ## 🚀 Interests
 My interests lie in a wide range of tech-related fields, including:
 
 - Software Development
 - Data Science
-- Web Development
+- Data Analytics 
 
 ## 🌱 Learning Journey
 I am on an exciting learning journey, where I embrace challenges as opportunities for growth. I believe that every step forward is a chance to improve myself and create a positive impact in the world.
@@ -24,8 +28,10 @@ Let's connect on LinkedIn! You can find my profile here: [Seemant Kaushal](https
 Here are some of the technologies and programming languages I work with:
 
 - 🐍 Python
-- 🎨 HTML
--   SQL 
+-   Power BI 
+-   SQL
+-   Airflow
+-   LLM/NLP 
 <!-- add your own -->
 Feel free to ask if you have any questions about my tech stack or if you want to discuss any tech-related topics!
 
